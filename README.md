@@ -1,3 +1,4 @@
+Developers: Matan Buljubašić, Antonio Veselčić, Luka Jukić
 
 IEEE 830-1998 Software Requirements Specification
 
